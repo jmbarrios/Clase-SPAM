@@ -1,3 +1,11 @@
+# System files
 .DS_Store 
 .Rhistory
 .Rapp.history
+
+# Folders
+R_ejercicio/data/easy_ham/**/*
+R_ejercicio/data/easy_ham_2/**/*
+R_ejercicio/data/spam/**/*
+R_ejercicio/data/spam_2/**/*
+R_ejercicio/data/hard_ham/**/*
